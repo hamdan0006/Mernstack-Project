@@ -1,0 +1,16 @@
+.container{
+    max-width: 140rem;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+    
+}
+.list-item{
+    text-decoration: none;
+    margin-right: 10px;
+    color: black;
+    font-size: 18px;
+}
