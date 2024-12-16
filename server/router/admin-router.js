@@ -1,20 +1,4 @@
-// const express = require('express');
-// const router = express.Router();
-// const adminControllers = require('../controllers/admin-controllers');
-// const authMiddleware =require("../middleware/auth-middleware");
-// const adminMiddleware =require("../middleware/admin-middleware")
 
-// router.route('/users')
-//   .get(authMiddleware,adminMiddleware,adminControllers.getAllUsers);
-
-//   router.
-//   route("/users/delete:id")
-//   .delete(authMiddleware,adminMiddleware,adminControllers.deleteUser);
-
-// router.route('/contacts')
-//   .get(authMiddleware,adminControllers.getContacts);
-
-// module.exports = router;
 
 
 const express = require('express');
